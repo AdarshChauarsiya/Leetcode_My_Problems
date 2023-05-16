@@ -1,2 +1,2 @@
-# Leetcode_My_Problems
-This is solved Problem in leetcode
+# Console Based Project 
+Here I make a console based project
